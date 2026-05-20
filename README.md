@@ -26,6 +26,8 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman,rabbitmq,kafka" />
 
 #### **Otros**
-<img src="https://skillicons.dev/icons?i=bash" /> 
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40" alt="chartjs"/>
-<img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="ollama"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="48" height="48" alt="chartjs" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="ollama" style="vertical-align: middle;" />
+</p>
