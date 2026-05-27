@@ -24,7 +24,7 @@ Automatizar procesos, asegurar la disponibilidad del código en contenedores y e
 
 | Capa / Entorno | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Frontend & Diseño** | <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts,bootstrap,sass,figma" /> |
+| **Frontend & Diseño** | <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,bootstrap,sass" /> |
 | **Backend & Datos** | <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mysql,redis" /> |
 | **DevOps & Infra** | <img src="https://skillicons.dev/icons?i=docker,git,postman,rabbitmq,kafka" /> <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="swagger" style="vertical-align: middle; margin-left: 4px;" /> |
 | **Otros / AI** | <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" style="vertical-align: middle; margin-right: 6px;" /><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="48" height="48" alt="chartjs" style="vertical-align: middle; margin-right: 14px;" /><img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="ollama" style="vertical-align: middle; margin-right: 14px;" /><img src="https://cdn.simpleicons.org/claude/D9775C" width="48" height="48" alt="claude" style="vertical-align: middle;" /> |
